@@ -16,7 +16,7 @@ puts student_names = [
   "Nicki Minaj", 
   "Rihanna"
   ]
-puts 
+puts student_names.first
  
 end
 
