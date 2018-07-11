@@ -8,7 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
- puts STUDENT_NAMES.first 
+ puts STUDENT_NAMES[0]
 end
 
 puts first_student_by_index
