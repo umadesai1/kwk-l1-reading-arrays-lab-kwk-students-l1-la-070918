@@ -1,4 +1,4 @@
-student_names = [
+STUDENT_NAMES = [
   "Adele",
   "Beyoncé",
   "Cardi B",
@@ -8,7 +8,7 @@ student_names = [
 ]
 
 def first_student_by_index
-  student_names.first 
+ STUDENT_NAMES.first 
 end
 
 puts first_student_by_index
