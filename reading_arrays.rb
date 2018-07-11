@@ -8,14 +8,14 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
- STUDENT_NAMES.first 
+ puts STUDENT_NAMES.first 
 end
 
 puts first_student_by_index
  
 
 def fourth_student_by_index
-  STUDENT_NAMES[3]
+  puts STUDENT_NAMES[3]
 end
 
 puts fourth_student_by_index
