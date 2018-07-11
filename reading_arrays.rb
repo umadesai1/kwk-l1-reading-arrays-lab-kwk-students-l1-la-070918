@@ -1,4 +1,4 @@
-STUDENT_NAMES = [
+student_names = [
   "Adele",
   "Beyoncé",
   "Cardi B",
@@ -8,7 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-puts STUDENT_NAMES = [ 
+puts student_names = [ 
   "Adele",
   "Beyoncé", 
   "Cardi B", 
@@ -17,7 +17,6 @@ puts STUDENT_NAMES = [
   "Rihanna"
   ]
 puts 
-
  
 end
 
