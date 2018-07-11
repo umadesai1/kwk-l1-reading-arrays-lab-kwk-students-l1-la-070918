@@ -17,7 +17,7 @@ puts student_names = [
   "Rihanna"
   ]
 
-puts student_names[0]
+student_names[0] puts
  
 end
 
