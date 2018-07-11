@@ -8,11 +8,10 @@ student_names = [
 ]
 
 def first_student_by_index
-puts student_names 
+  student_names.first 
 end
-puts student_names.first
 
-puts student_names[0] 
+puts first_student_by_index
  
 end
 
