@@ -26,7 +26,6 @@ end
 puts last_student_by_index
 
 def first_student_by_method
-  STUDENT_NAMES[0]
 end
 
 def last_student_by_method
